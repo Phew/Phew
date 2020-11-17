@@ -1,4 +1,4 @@
-# yo im chargesqltable
+# yo im charge/sqltable
 <div style='font-size:1.2em'>
 	<b>just here too learn g</b>
 	<br>
