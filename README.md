@@ -17,4 +17,8 @@
 </a>
 <br>
 <br>
+<hr>
+
+<img src="https://komarev.com/ghpvc/?username=fansigns&style=flat-square">
+
 </center>
