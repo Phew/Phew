@@ -1,6 +1,6 @@
-# yo im charge/sqltable
+# charge ⚡
 <div style='font-size:1.2em'>
-	<b>just here too learn g</b>
+	<b>gay asf</b>
 	<br>
 
 </div>
