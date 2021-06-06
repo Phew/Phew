@@ -6,7 +6,6 @@
         I make useless things<br>
 	Council @ doxbin.org<br>
 	https://doxbin.org/<br>
-        4e 2e 2e 23 30 39 30 34
 <hr>
 	
 
