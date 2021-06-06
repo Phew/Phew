@@ -1,23 +1,19 @@
-# charge ⚡
-<div style='font-size:1.2em'>
-	<br>
-
-</div>
-
-<br>
-
 <center>
-<a href="https://github.com/Phew">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Phew&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="charge's stats" />
-</a>
-<br><br>
-<a href="https://github.com/Phew?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phew&langs_count=8&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-<br>
-<br>
+<p align="middle"><img align="middle" style="width: 10px;" src="https://cdn.discordapp.com/attachments/848959804897493004/850926846350327809/giphy_1.gif"> </img>
 <hr>
+<p align="middle"><b>⚡ Charge<br>
+	Python Dev<br>
+        I make useless things<br>
+	Council @ doxbin.org<br>
+	https://doxbin.org/<br>
+        4e 2e 2e 23 30 39 30 34
+<hr>
+	
 
-<img src="https://komarev.com/ghpvc/?username=Phew&style=flat-square">
 
-</center>
+<p align="middle"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=phew-0&show_icons=true&theme=radical" /><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=phew-0&theme=radical&layout=compact&exclude_lang=java+r" /><br><br>
+	<p align="middle"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phew-0&langs_count=8&theme=radical&layout=compact">  </img><br><br>
+
+<img src="https://komarev.com/ghpvc/?username=phew-0&style=flat-square">
+
+</p>
