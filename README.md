@@ -5,7 +5,7 @@
 	Python Dev<br>
         I make useless things<br>
 	Council @ doxbin.org<br>
-	https://doxbin.org/<br>
+	https://skidglossary.tk/<br>
 <hr>
 	
 
