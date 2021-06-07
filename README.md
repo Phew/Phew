@@ -1,7 +1,7 @@
 <center>
 <p align="middle"><img align="middle" style="width: 10px;" src="https://cdn.discordapp.com/attachments/848959804897493004/850926846350327809/giphy_1.gif"> </img>
 <hr>
-<p align="middle"><b>⚡ Charge<br>
+<p align="middle"><b>⚡ Charge ⚡<br>
 	Python Dev<br>
         I make useless things<br>
 	Council @ doxbin.org<br>
