@@ -3,7 +3,6 @@
 	Python Dev<br>
 	Frontend dev<br>
         I make useless things<br>
-	Mod @ doxbin.org<br>
 	https://skidglossary.tk/<br>
 <hr>
 	
