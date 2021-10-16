@@ -12,7 +12,7 @@ phew@github
        WM  :  Gnome
     Shell  :  zsh 5.8
  Terminal  :  Alacritty
-      CPU  :  CPU Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz
+      CPU  :  Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz
     Alias  :  Charge/CH
 Languages  :  PY, C++, JS, HTML
   Discord  :  893242462347354182
