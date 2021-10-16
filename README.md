@@ -1,16 +1,33 @@
-<center><hr>
-<p align="middle"><b>⚡ Charge ⚡<br>
-	Python Dev<br>
-	Frontend dev<br>
-        I make useless things<br>
-	https://skidglossary.tk/<br>
-<hr>
-	
+```zsh
+> neofetch
+```
 
+<img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
 
-<p align="middle"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=phew&show_icons=true&theme=radical" /><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=phew&theme=radical&layout=compact&exclude_lang=java+r" /><br><br>
-	<p align="middle"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phew&langs_count=8&theme=radical&layout=compact">  </img><br><br>
+```csharp
+phew@github
+----------------
 
-<img src="https://komarev.com/ghpvc/?username=phew&style=flat-square">
+       OS  :  Arch Linux x86_64
+       WM  :  Gnome
+    Shell  :  zsh 5.8
+ Terminal  :  Alacritty
+      CPU  :  AMD Ryzen 7 2700x
+    Alias  :  Charge/CH
+Languages  :  PY, C++, JS, HTML
+  Discord  :  893242462347354182
+```
 
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" />
+  <img alt="#fbedf6" src="https://via.placeholder.com/15/4ca4eb/000000?text=+" width="25" height="20" />
+  <img alt="#c9594d" src="https://via.placeholder.com/15/d74681/000000?text=+" width="25" height="20" />
+  <img alt="#f8b9b2" src="https://via.placeholder.com/15/60409c/000000?text=+" width="25" height="20" />
+  <img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
 </p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=phew&style=flat-square)
+<p style="font-size: 6px">README inspired by <a href="https://github.com/ecriminal">checksum / ecriminal</a></p>
