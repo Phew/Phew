@@ -16,6 +16,7 @@ phew@github
     Alias  :  Charge/CH
 Languages  :  PY, C++, JS, HTML
   Discord  :  893242462347354182
+ Telegram  :  ch6rge
 ```
 
 <p align="left">
