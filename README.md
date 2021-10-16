@@ -31,4 +31,4 @@ Languages  :  PY, C++, JS, HTML
 ---
 
 ![](https://komarev.com/ghpvc/?username=phew&style=flat-square)
-<p style="font-size: 6px">README inspired by <a href="https://github.com/ecriminal">checksum / ecriminal</a></p>
+<p style="font-size: 6px">README inspired by <a href="https://github.com/ecriminal">cs</a></p>
