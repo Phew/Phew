@@ -16,7 +16,7 @@ phew@github
     Alias  :  Charge/CH
 Languages  :  PY, C++, JS, HTML
   Discord  :  893242462347354182
- Telegram  :  stitch
+ Telegram  :  scope
 ```
 
 <p align="left">
