@@ -40,12 +40,6 @@
 
 <br>
 
-<div align="center";>
-    <a href="https://discord.com/users/896226027725000735" style="text-align: center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/896226027725000735
-                            )](https://discord.com/users/896226027725000735)
-    </a>
-</div>
 <div align="center">
 <a href="https://github.com/Phew" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
