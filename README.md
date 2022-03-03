@@ -42,7 +42,7 @@
 
 <div align="center";>
     <a href="https://discord.com/users/896226027725000735" style="text-align: center">
-        <img src="https://lanyard-profile-readme.vercel.app/api/896226027725000735?theme=dark&idleMessage=probably%20touching%20grass&hideDiscrim=true&hideTimestamp=true" width="290" height="155">
+[![(https://lanyard.cnrad.dev/api/896226027725000735)]
     </a>
 </div>
 <div align="center">
