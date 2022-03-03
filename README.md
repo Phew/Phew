@@ -53,4 +53,6 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div> 
-![](https://komarev.com/ghpvc/?username=phew&style=flat-square)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=phew&&style=flat-square" align="center" />
+</div>  
